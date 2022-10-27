@@ -10,6 +10,7 @@ namespace Prime.Services
             {
                 return false;
             }
+            //Here is a comment.
             throw new NotImplementedException("Not implemented.");
         }
     }
